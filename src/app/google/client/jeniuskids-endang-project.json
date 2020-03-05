@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "endang",
+  "private_key_id": "971eff67e44496710bff98632568b7f40af05854",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCoXqqhrdUfCu0I\npcUs8lfptoVY9RjBLYVVjoZui121d0tVkrVgDBf+UeVVLvuEHYzGwA+2YjtTycAk\n+aiPjlOFrjs2jybBwpjjjQcu4bpqKGndhbVHZjDd02YIdVa0atcEALifHxzToY+z\nFML0AYMjbHtgbR/Noyi62grd8T3NsVVlVMB8Z/0fSEawXvSZOsKmXy6o1uaeGXTW\ntRd66sZ3//U9zajpvginianeumXFt9ingtEBEUgBr/ax/XPBQfE7jkyUzBl+BwGE\np+F8bDKzOBt37ow8E145G06DXKGf/NA5LWtInZ/idU2jZpJ7Xv9kCW+0oOd7j48m\nHIgEojYfAgMBAAECggEARdE7oF+dCIpXUEatRL4ZhmiRUxoPccuWhqvbQuu3qBAX\nxRxY6cMaD/OVzYT19wrp3WC3I0IIp+35J1v/ccfrCnv9QdqKj75J99H7MI2Z53tq\nqtlPGpRdnx6SKN+/XIEROC+0XwdfxMIx/GiXjucxofbSEmIt1e/aa+EOsIngvvIl\njWCJx6d227WxTy6dM3gYpJhBTdU9H6Z4r8RK1+hUEnAolKft+kTpIp0hvJgDhyM+\nSO+mjeg0szDq6Yioqxhir0H1X/cJZMty5xHb1pxUQHScqjgzlLKJFQ1iPrWI/ChB\npptprMSEeP4xb+iaWbqpta+c34qfeRyUl83RbQ0iwQKBgQDeA9cOG+fm8D8xkWXP\nosdPILqI0gMcso2DyJorDpOw3E9lUK4QFfot31L8A8HTpo8mQc1nPBAvJyalQBdX\nYJpA9JZ4CPwnWIdnzhWK2mhnT7QFX98z7eiG2mFZqVgn6Cm4o8gNhmTwFg+RmA/q\n/mQTbFE39KBz4pQlgwkGij3kbQKBgQDCJJ4cGygnozLcQM+UU3iwEVpv+W556pvD\noRY6AUxYgJhrGtzNe8rBdyRTVLy7upBq1zie6/o290VvpDTEPuIweA85SQBQiYge\neY9fODT6XmIgNAxZ6sjRa6CkU/P5cDhlvkTiFxgx0aXEpz2JsuQhZSF48eUuJ8CT\n334hI+Q1OwKBgBphJG1lvXFAPJH8L7ezJLFvNxrIsVv4jz4IWOEi00OhecGVC4mX\nwukubuLI43/te3bVPL22cknYAgyCiAN20/1B0psinitipnwcDY05FEyqOL6mvJOk\nAgv76LNJntLnEAYDV+LbhCTOyjzHb6TBY0y3gxL9+w6p7mZionDnfiElAoGABQ0A\n1Ahc1hMn2pUREXHOfP4mlS0vE5rn7IH/Wwj3nIHT9U1gmzPyRXA9ELHuqw+ifDUX\nMwM+ojlypAHooYZlSg+Fjd75VB8P3IMbGMYUksLr2JyiCaDTEqezKTNJ8J5byUHW\n9u7U4U7r+h7DuhZeWwQPh977MGU2XGJ/HIubf0sCgYBdSdRa16InhkdnqEWjXV0y\n6yZZXoD2ZIkiybJbybHa0TtJ7k+4Yn/qSLdQkriRQ9zbxQp8ccoqFnWXVyV80sd9\n2XzPVyxHymKRKQMuXWY6vBfYvx1kVS0GWXQSd4CDlR41vQqSwQxaxRziAa9pG05L\npBhLtoeafDfI9IMQMja9zQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "jeniuskids-storage@endang.iam.gserviceaccount.com",
+  "client_id": "101851397793835242621",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jeniuskids-storage%40endang.iam.gserviceaccount.com"
+}
