@@ -37,7 +37,7 @@
     "await-fs": "^1.0.0",
     "bcrypt": "^3.0.7",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.11.0",
+    "class-validator": "^0.14.0",
     "cloudinary": "^1.19.0",
     "cloudinary-core": "^2.8.0",
     "crypto-js": "^3.1.9-1",
